@@ -72,10 +72,10 @@ This backend provides:
 
 ## 🖼 **Screenshots**
 
-![Login](/assets/login.png)
-![Signup](/assets/signup.png)
-![Mails](/assets/mails.png)
-![UpdatedMail](/assets/UpdatedMail.png)
+![Login](public/assets/login.png)
+![Signup](public/assets/signup.png)
+![Mails](public/assets/mails.png)
+![UpdatedMail](public/assets/UpdatedMail.png)
 
 ---
 
